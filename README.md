@@ -25,10 +25,10 @@ The project follows the **Model-View-Controller (MVC)** pattern:
 - **Controller**: `MainActivity.kt` acts as the controller, handling user input, updating the view, and managing the application logic.
 
 ## Screenshot
-
-*(Please replace the placeholder below with a real screenshot of the application running on a device.)*
 ![STATE 1.png](STATE%201.png)
+
 ![STATE 2.png](STATE%202.png)
+
 ![STATE 3.png](STATE%203.png)
 ---
 
