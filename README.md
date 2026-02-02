@@ -27,10 +27,9 @@ The project follows the **Model-View-Controller (MVC)** pattern:
 ## Screenshot
 
 *(Please replace the placeholder below with a real screenshot of the application running on a device.)*
-
-![Screenshot 2026-02-02 at 1.25.58 AM.png](../../Desktop/Screenshot%202026-02-02%20at%201.25.58%E2%80%AFAM.png)
-![Screenshot 2026-02-02 at 1.25.47 AM.png](../../Desktop/Screenshot%202026-02-02%20at%201.25.47%E2%80%AFAM.png)
-![Screenshot 2026-02-02 at 1.26.38 AM.png](../../Desktop/Screenshot%202026-02-02%20at%201.26.38%E2%80%AFAM.png)
+![STATE 1.png](STATE%201.png)
+![STATE 2.png](STATE%202.png)
+![STATE 3.png](STATE%203.png)
 ---
 
 ### Initial Commit Summary
